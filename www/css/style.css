@@ -341,7 +341,7 @@ embed {
 }
 
 /* Tablet view */
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 470px) and (max-width: 768px) {
   .main-menu-list {
     text-align: right;
   }
@@ -371,7 +371,7 @@ embed {
 }
 
 /* Mobile view */
-@media (max-width: 425px) {
+@media (max-width: 470px) {
   #logo {
     position: static;
   }
@@ -458,7 +458,7 @@ footer > section {
 }
 
 /* Tablet view */
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 470px) and (max-width: 768px) {
   .grid-steps {
     width: 48%;
     padding: 60px 0;
@@ -474,7 +474,7 @@ footer > section {
 }
 
 /* Mobile view */
-@media (max-width: 425px) {
+@media (max-width: 470px) {
   main {
     padding: unset;
   }
