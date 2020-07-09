@@ -19,9 +19,9 @@ Download the `www` folder and open the `index.html` file. Or check the live vers
 
 ## Screenshots
 
-![screenshot_1](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_1.png)
+![screenshot_1](./assets/screenshot_1.png)
 
-![screenshot_3](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_3.png)
+![screenshot_3](./assets/screenshot_3.png)
 
-![screenshot_2](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_2.png)
+![screenshot_2](./assets/screenshot_2.png)
 
