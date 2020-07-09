@@ -1,67 +1,27 @@
-# Weather App
+# Magic Crystals
 
-This site was created as part of my training as a web developer at Chas Academy. This corresponds my first assignment. The site is created only using HTML and CSS. 
+This site was created as part of my training as a web developer at Chas Academy. This corresponds to my first individual assignment. The site presents the landing page of a fake boutique. It was created using solely HTML and CSS.
 
-The app lets the user:
+The site:
 
-- Get current weather of the user's location using the browser's geolocation (if the geolocation is not available, the default location is Stockholm). The current, minimum and maximum temperature of the day, along with the humidity, wind speed, sunrise and sunset time are displayed to the user.
+- is responsive
+- is adaptive to different device sizes
+- uses Grid and Flexbox
+- follows accessibility guidelines
 
-![home](./src/assets/home.png)
 
-- Get current weather of other locations using a search bar.
 
-![search](./src/assets/search.png)
+## Open the site
 
-- Get a 5-day weather forecast showing, if requested, data in 3-hour intervals. The temperature is also displayed in a graph.
+Download the `www` folder and open the `index.html` file. Or check the live version at this link:  http://enzo.zerega.chas.academy/u01-static-website/
 
-![forecast](./src/assets/forecast.png)
 
-![intervals](./src/assets/intervals.png)
 
-- Get the temperature displayed both in Celsius and Fahrenheit.
-- Be redirected to a Not Found page when something goes wrong during the data retrieval.
+## Screenshots
 
-![error](./src/assets/error.png)
+![screenshot_1](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_1.png)
 
-The data is retrieved from the **[OpenWeather](https://openweathermap.org/api) API**.
+![screenshot_3](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_3.png)
 
-## Run the app
+![screenshot_2](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot_2.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
