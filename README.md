@@ -19,4 +19,4 @@ Download the `www` folder and open the `index.html` file. Or check the live vers
 
 ## Screenshots
 
-![screenshot](C:\Users\enzer\Enzo\dev\projects\chasacademy\u01-static-website\assets\screenshot.png)
+![screenshot](./assets/screenshot.png)
