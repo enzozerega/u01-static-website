@@ -444,7 +444,6 @@ footer > section {
 #map {
   background-color: #eee;
   width: 100%;
-  pointer-events: auto;
 }
 
 #copyright {
@@ -516,46 +515,37 @@ footer > section {
 /* Image correction */
 
 #crystal-01 {
-  -webkit-filter: hue-rotate(10deg);
   filter: hue-rotate(10deg);
 }
 
 #crystal-02 {
-  -webkit-filter: hue-rotate(50deg);
   filter: hue-rotate(50deg);
 }
 
 #crystal-03 {
-  -webkit-filter: hue-rotate(300deg);
   filter: hue-rotate(300deg);
 }
 
 #crystal-04 {
-  -webkit-filter: hue-rotate(100deg);
   filter: hue-rotate(100deg);
 }
 
 #crystal-05 {
-  -webkit-filter: hue-rotate(320deg);
   filter: hue-rotate(320deg);
 }
 
 #crystal-06 {
-  -webkit-filter: hue-rotate(150deg);
   filter: hue-rotate(150deg);
 }
 
 #crystal-07 {
-  -webkit-filter: hue-rotate(170deg);
   filter: hue-rotate(170deg);
 }
 
 #crystal-08 {
-  -webkit-filter: hue-rotate(1deg);
   filter: hue-rotate(1deg);
 }
 
 #crystal-09 {
-  -webkit-filter: hue-rotate(40deg);
   filter: hue-rotate(40deg);
 }
