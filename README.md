@@ -13,7 +13,7 @@ The site:
 
 ## Open the site
 
-Download the `www` folder and open the `index.html` file. Or check the live version at this link:  http://enzo.zerega.chas.academy/u01-static-website/
+Download the `www` folder and open the `index.html` file. Or check the live version at this link:  https://u01-static-website.web.app/
 
 
 
